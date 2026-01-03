@@ -52,13 +52,3 @@ Data Analyst | ML Analyst | Operations Analyst | Risk & Business Analytics
 🔗 LinkedIn: linkedin.com/in/nitiin-mishra007  
 💻 GitHub: github.com/mr-nitin-mishra  
 📧 Email: nitinmishra.du.or.26@gmail.com
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nitin-mishra&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nitin-mishra&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-nitin-mishra)
