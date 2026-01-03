@@ -55,8 +55,10 @@ Data Analyst | ML Analyst | Operations Analyst | Risk & Business Analytics
 
 ## 📊 GitHub Stats
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nitin-mishra&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-nitin-mishra&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nitin-mishra&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mr-nitin-mishra)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-nitin-mishra)
